@@ -26,3 +26,5 @@ focused on building production-grade AI/ML pipelines.
 
 ## Tools
 - VSCode + YAML extension
+- [x] Day 02: Git Internals
+- [x] Day 03: Branching Strategies
