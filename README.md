@@ -23,3 +23,5 @@ focused on building production-grade AI/ML pipelines.
 ## Progress
 
 - [x] Day 01: What is CI/CD + Environment Setup
+- [x] Day 02: Git Internals
+- [x] Day 03: Branching Strategies
