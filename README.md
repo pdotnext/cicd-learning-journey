@@ -23,3 +23,6 @@ focused on building production-grade AI/ML pipelines.
 ## Progress
 
 - [x] Day 01: What is CI/CD + Environment Setup
+
+## Tools
+- VSCode + YAML extension
