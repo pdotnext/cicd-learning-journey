@@ -1,0 +1,52 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.egg/
+*.egg
+
+# Virtual environment
+.venv
+venv
+env/
+
+# IDE
+
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# environment variables and secrets
+.env
+.env.local
+*.pem
+*.key
+
+# AI/ML specific - NEVER commit these to Git
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+*.joblib
+*.bin
+model_weights/
+checkpoints/
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.arrow
+wandb/
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
