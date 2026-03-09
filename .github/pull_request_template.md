@@ -20,7 +20,7 @@
 
 - [ ] Model accuracy meets threshold
 - [ ] Data schema validated
-- [ ] Interference latency within limits
+- [ ] Inference latency within limits
 - [ ] No new bias introduced
 - [ ] Model size checked
 
