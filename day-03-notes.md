@@ -13,4 +13,3 @@ long-lived branches + rare merges = broken CI
 Feature flags let you merge incomplete features to main.
 Code is deployed but hidden behind if/else switch.
 Flip the flag to enable - no redeployment needed.
-
